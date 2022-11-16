@@ -84,10 +84,13 @@ footer .links > a {
 
 
 article:nth-child(even) {
-   background-color: red;
+   background-color: #E0FFFF;
     }
 
-
+    .new::before {
+content: 'New.';
+color: #0085a1;
+    }
    
 
   
